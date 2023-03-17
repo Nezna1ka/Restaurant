@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .container {
@@ -11,4 +12,15 @@ body {
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.header-line {
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.nav a {
+    color: #fff;
+    text-decoration: none;
 }
