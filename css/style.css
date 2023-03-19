@@ -32,4 +32,11 @@ body {
     border-right: 1px solid #fff;
     padding-right: 10px;
     height: 50px;
+    position: relative;
+}
+
+.cart-img {
+    position: absolute;
+    top: 18px;
+    right: 7px;
 }
