@@ -57,3 +57,9 @@ body {
     display: flex;
     align-items: center;
 }
+
+.button {
+    text-decoration: none;
+    background-color: #ff7400;
+    color: #fff;
+}
