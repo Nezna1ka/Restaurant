@@ -38,5 +38,10 @@ body {
 .cart-img {
     position: absolute;
     top: 18px;
-    right: 7px;
+    right: 10px;
+}
+
+.num {
+    color: #fff;
+    text-decoration: none;
 }
