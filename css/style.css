@@ -44,4 +44,16 @@ body {
 .num {
     color: #fff;
     text-decoration: none;
+    font-weight: 700;
+}
+
+.phone-text {
+    font-size: 14px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.phone-holder {
+    display: flex;
+    align-items: center;
 }
