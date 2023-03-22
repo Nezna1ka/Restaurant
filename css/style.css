@@ -85,7 +85,19 @@ body {
     background-color: #b75b11;
 }
 
+.header-down {
+    position: relative;
+}
+
 .header-title {
     color: #d67e35;
     font-family: 'Tinos', serif;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+}
+
+
+.header-subtitle {
+
 }
