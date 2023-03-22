@@ -100,6 +100,7 @@ body {
     left: 0;
 
     margin-top: 222px;
+    margin-bottom: 12px;
 }
 
 
@@ -127,4 +128,14 @@ body {
     background-color: #fff;
     top: 127px;
     left: 308px;
+}
+
+.header-button {
+    color: #fff;
+    padding: 14px 28px;
+    background-color: #ff7400;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
 }
