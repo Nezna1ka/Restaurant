@@ -118,3 +118,13 @@ body {
     top: 127px;
     left: 56px;
 }
+
+.header-suptitle::before {
+    position: absolute;
+    content: '';
+    height: 2px;
+    width: 61px;
+    background-color: #fff;
+    top: 127px;
+    left: 308px;
+}
