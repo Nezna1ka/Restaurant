@@ -138,4 +138,10 @@ body {
     font-weight: 700;
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
+
+    transition: background-color 0.3s linear;
+}
+
+.header-button:hover {
+    background-color: #ac540c;
 }
