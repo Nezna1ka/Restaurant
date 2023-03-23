@@ -103,7 +103,6 @@ body {
     margin-bottom: 12px;
 }
 
-
 .header-suptitle {
     color: #fff;
     font-size: 18px;
@@ -138,7 +137,6 @@ body {
     font-weight: 700;
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
-
     transition: background-color 0.3s linear;
 }
 
